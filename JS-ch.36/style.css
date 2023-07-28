@@ -1,0 +1,39 @@
+#container{
+    background-color: #222;
+    width: 400px;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    align-items: center;
+    border: 5px solid black;
+    border-radius: 30px;
+    
+}
+
+#time{
+    font-family: consolas, monospace;
+    font-weight: lighter;
+    color: chartreuse;
+    font-size: 70px; 
+    margin: -22px; 
+}
+
+#btns{
+    display: flex;
+    justify-content:center;
+    align-items: end;
+    gap: 1px;
+}
+.btn{
+    width: 90px;
+    height: 30px;
+    background-color: #333;
+    border:2px solid white;
+    border-radius: 20px ;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}

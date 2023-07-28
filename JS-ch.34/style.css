@@ -1,0 +1,24 @@
+
+/* img{
+    width: 400px;
+    height: 250px;
+} 
+#img0{
+    width: 400px;
+    height: 250px;
+} */
+/* #box{
+    width: 200px;
+    height: 150px;
+    border: 3px solid burlywood;
+    background-color: chartreuse;
+    position: relative;
+} */
+
+#box{
+    width: 200px;
+    height: 150px;
+    border: 3px solid rgb(19, 11, 1);
+    background-color: rgb(129, 255, 3);
+    position: relative;
+}

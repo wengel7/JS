@@ -1,0 +1,12 @@
+
+.container{ 
+    text-align: center;
+    font-size: 150px;
+    font-weight: bold;
+    display: flex;
+    gap:120px
+}
+#roll{
+    display: flex;
+    justify-content: center;
+}

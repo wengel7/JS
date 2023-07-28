@@ -1,0 +1,11 @@
+#num{
+    display: block;
+    text-align: center;
+    font-size: 150px;
+    font-weight: bold;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    gap:2px
+}
